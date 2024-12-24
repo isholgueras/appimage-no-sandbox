@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MyApp
+Exec=/home/myuser/Programs/MyApp/myapp.sh
+Icon=/home/myuser/Programs/MyApp/logo.svg
+Type=Application
+Categories=Utility;
